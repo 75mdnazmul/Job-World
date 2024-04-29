@@ -1,0 +1,27 @@
+[
+    {
+      "id": "01",
+      "icon": "../public/icons/developer.png",
+      "name": "Software engineer",
+      "quantity": "124"
+    },
+    {
+      "id": "02",
+      "icon": "../public/icons/bank.png",
+      "name": "Banking",
+      "quantity": "167"
+    },
+    {
+      "id": "03",
+      "icon": "../public/icons/web-development.png",
+      "name": "Web Developer",
+      "quantity": "239"
+    },
+    {
+      "id": "04",
+      "icon": "../public/icons/shopping-online.png",
+      "name": "Digital Marketing",
+      "quantity": "100+"
+    }
+  ]
+  

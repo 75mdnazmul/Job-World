@@ -1,0 +1,112 @@
+{
+    "jobs": [
+        {
+            "id": 1,
+            "company_logo": "https://www.shutterstock.com/image-vector/letter-initial-logo-design-acme-600w-2104849118.jpg",
+            "job_title": "Software Engineer",
+            "company_name": "Acme Corporation",
+            "remote_or_onsite": "Remote",
+            "location": "Anywhere",
+            "fulltime_or_parttime": "Fulltime",
+            "salary": "$100,000 - $150,000",
+            "job_description": "Acme Corporation is seeking an experienced software engineer to join our team. The successful candidate will be responsible for developing and maintaining our web applications and services.",
+            "job_responsibility": "- Develop and maintain web applications and services\n- Collaborate with cross-functional teams to design, develop, and ship new features\n- Write clean, maintainable, and testable code\n- Troubleshoot and debug issues as they arise",
+            "educational_requirements": "Bachelor's degree in Computer Science or related field",
+            "experiences": "5+ years of experience in software engineering",
+            "contact_information": {
+                "phone": "123-456-7890",
+                "email": "careers@acme.com"
+            }
+        },
+        {
+            "id": 2,
+            "company_logo": "https://www.shutterstock.com/image-vector/concept-logo-flat-vector-design-600w-1204615096.jpg",
+            "job_title": "Marketing Manager",
+            "company_name": "XYZ Inc.",
+            "remote_or_onsite": "Onsite",
+            "location": "New York, NY",
+            "fulltime_or_parttime": "Fulltime",
+            "salary": "$80,000 - $100,000",
+            "job_description": "XYZ Inc. is seeking an experienced marketing manager to lead our marketing initiatives.",
+            "job_responsibility": "- Develop and execute marketing campaigns\n- Manage social media channels and email marketing\n- Analyze and report on campaign performance\n- Collaborate with cross-functional teams to ensure brand consistency",
+            "educational_requirements": "Bachelor's degree in Marketing or related field",
+            "experiences": "3+ years of experience in marketing",
+            "contact_information": {
+                "phone": "555-555-5555",
+                "email": "careers@xyz.com"
+            }
+        },
+        {
+            "id": 3,
+            "company_logo": "https://www.shutterstock.com/image-vector/abstract-initial-letter-p-b-600w-1857296173.jpg",
+            "job_title": "Graphic Designer",
+            "company_name": "Big Design Agency",
+            "remote_or_onsite": "Onsite",
+            "location": "Los Angeles, CA",
+            "fulltime_or_parttime": "Part-time",
+            "salary": "$40,000 - $60,000",
+            "job_description": "Big Design Agency is seeking a talented graphic designer to join our team.",
+            "job_responsibility": "- Design and create graphics for print and web\n- Collaborate with cross-functional teams to develop visual solutions\n- Stay up-to-date with industry trends and technologies",
+            "educational_requirements": "Bachelor's degree in Graphic Design or related field",
+            "experiences": "2+ years of experience in graphic design",
+            "contact_information": {
+                "phone": "555-123-4567",
+                "email": "careers@bigdesign.com"
+            }
+        },
+        {
+            "id": 4,
+            "company_logo": "https://www.shutterstock.com/image-vector/abstract-world-globe-business-logo-600w-1851001282.jpg",
+            "job_title": "Accountant",
+            "company_name": "Small Business Inc.",
+            "remote_or_onsite": "Onsite",
+            "location": "Chicago, IL",
+            "fulltime_or_parttime": "Fulltime",
+            "salary": "$50,000 - $70,000",
+            "job_description": "Small Business Inc. is seeking an experienced accountant to join our finance team.",
+            "job_responsibility": "- Maintain financial records and transactions\n- Prepare financial statements and reports\n- Ensure compliance with accounting policies and regulations\n- Collaborate with cross-functional teams to manage budgets and forecasts",
+            "educational_requirements": "Bachelor's degree in Accounting or related field",
+            "experiences": "3+ years of experience in accounting",
+            "contact_information": {
+                "phone": "555-789-1234",
+                "email": "careers@smallbiz.com"
+            }
+        },
+        {
+            "id": 5,
+            "company_logo": "https://png.pngtree.com/png-clipart/20220621/original/pngtree-badminton-logo-clipart-png-image_8152119.png",
+            "job_title": "Human Resources Manager",
+            "company_name": "Large Corporation",
+            "remote_or_onsite": "Onsite",
+            "location": "Houston, TX",
+            "fulltime_or_parttime": "Fulltime",
+            "salary": "$90,000 - $120,000",
+            "job_description": "Large Corporation is seeking an experienced human resources manager to oversee our HR department.",
+            "job_responsibility": "- Develop and implement HR policies and procedures\n- Manage employee relations and benefits\n- Recruit and onboard new employees\n- Ensure compliance with labor laws and regulations",
+            "educational_requirements": "Bachelor's degree in Human Resources or related field",
+            "experiences": "5+ years of experience in HR",
+            "contact_information": {
+                "phone": "555-444-3333",
+                "email": "careers@largecorp.com"
+            }
+        },
+        {
+            "id": 6,
+            "company_logo": "https://png.pngtree.com/png-clipart/20200720/original/pngtree-launch-startup-ship-shuttle-mission-blue-yellow-business-log-png-image_4457958.jpg",
+            "job_title": "Sales Representative",
+            "company_name": "Startup Co.",
+            "remote_or_onsite": "Remote",
+            "location": "Anywhere",
+            "fulltime_or_parttime": "Fulltime",
+            "salary": "$60,000 - $80,000",
+            "job_description": "Startup Co. is seeking an ambitious sales representative to drive our revenue growth.",
+            "job_responsibility": "- Identify and pursue new sales opportunities\n- Develop and maintain relationships with customers\n- Conduct product demos and presentations\n- Meet and exceed sales targets",
+            "educational_requirements": "Bachelor's degree in Business or related field",
+            "experiences": "2+ years of experience in sales",
+            "contact_information": {
+                "phone": "555-777-8888",
+                "email": "careers@startupco.com"
+            }
+        }
+    ]
+}
